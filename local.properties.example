@@ -1,0 +1,2 @@
+# Copy this file to  local.properties  and paste your key (starts with AQ.)
+gemini.api-key=PASTE_YOUR_GEMINI_API_KEY_HERE

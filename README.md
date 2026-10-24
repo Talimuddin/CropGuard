@@ -17,6 +17,13 @@
 # \---
 
 # 
+## 📸 Screenshots
+
+![Dashboard](Screenshots/Dashboard.png)
+![Result English](Screenshots/Result%20Eng.png)
+![Result Hindi](Screenshots/Result%20Hindi.png)
+
+#
 
 # \## ✨ Features
 

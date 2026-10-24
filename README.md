@@ -11,7 +11,9 @@ Backend: **Java 17 + Spring Boot** · Frontend: **HTML, CSS, JavaScript, Bootstr
 ## 📸 Screenshots
 
 ![Dashboard](Screenshots/Dashboard.png)
+
 ![Result English](Screenshots/Result%20Eng.png)
+
 ![Result Hindi](Screenshots/Result%20Hindi.png)
 
 ---
